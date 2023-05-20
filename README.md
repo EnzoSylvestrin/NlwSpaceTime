@@ -1,4 +1,4 @@
-# NlwSpaceTime
+<h1 align="center">NlwSpaceTime</h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/EnzoSylvestrin/NlwSpaceTime?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/EnzoSylvestrin/NlwSpaceTime?style=for-the-badge)
