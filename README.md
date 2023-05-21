@@ -17,21 +17,23 @@ Antes de começar, verifique se você atendeu ao seguinte requisito:
 
 ## ☕ Usando o Projeto
 
-Para usar o projeto de clima, siga estas etapas:
+Para usar o projeto, siga estas etapas:
 
-para clonar o repositório utilize:
+clone o repositório utilizando:
 
+```
 git clone https://github.com/EnzoSylvestrin/NlwSpaceTime.git
+```
 
-Server e Web
+inicie o projeto utilizando os respectivos comandos:
 
-utilize o comando:
+Server e Web:
 
 ```
 npm run dev
 ```
 
-Mobile
+Mobile:
 ```
 npm run start
 ```
